@@ -1,10 +1,11 @@
-package pack1;
+import java.util.*;
 public class student
 {
 public static void main()
 {
-stringSname="abc";
+String sname="abc";
 int rno=134;
 System.out.println(sname+" "+rno);
+  System.pout.println("student is present");
 }
 }
